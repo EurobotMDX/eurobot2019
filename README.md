@@ -16,8 +16,8 @@ What things you need to install the software and how to install them
 ```
 Give examples
 ```
-* [Ubuntu MATE for the Raspberry Pi](https://ubuntu-mate.org/download/) - Download Ubuntu MATE for Raspberry Pi
-* [Ubuntu install of ROS Kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu) - Installation process in steps
+* [Ubuntu MATE for the Raspberry Pi - web](https://ubuntu-mate.org/download/) - Download Ubuntu MATE for Raspberry Pi
+* [Ubuntu install of ROS Kinetic - web](http://wiki.ros.org/kinetic/Installation/Ubuntu) - Installation process in steps
 
 ### Installing
 
@@ -63,14 +63,20 @@ Add additional notes about how to deploy this on a live system
 
 ## Useful Documents
 
-* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* [ROS Cheat Sheet](http://www.tedusar.eu/files/summerschool2013/ROScheatsheet.pdf)
-* [MD25 Motor Controller I2C for Arduino](https://www.robot-electronics.co.uk/htm/arduino_examples.htm#MD25%20RD02%20Motor%20Controller) - Pinout scheme and arduino .ino example
+* [Markdown Cheatsheet - github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [ROS Cheat Sheet - pdf](http://www.tedusar.eu/files/summerschool2013/ROScheatsheet.pdf)
+* [MD25 Motor Controller I2C for Arduino -web](https://www.robot-electronics.co.uk/htm/arduino_examples.htm#MD25%20RD02%20Motor%20Controller) - Pinout scheme and arduino .ino example
 
-## Built With
+## Small Robot
 
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Driving for MD25 - github](https://github.com/DiefBell/MD25) - An object-oriented Arduino library for controlling the MD25 motor controller (via I2C).
+
+```
+In order to install this library, find your Arduino folder, 
+then place the MD25 folder (NOT the "MD25-master" folder) into your libraries folder. 
+Folder structure should look something like:
+/Arduino/libraries/MD25/src/ /examples/ keywords.txt etc...
+```
 
 ## Contributing
 
