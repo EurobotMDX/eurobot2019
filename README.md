@@ -2,6 +2,8 @@
 
 For Eurobot 2019 competition - Middlesex University team repository
 
+![alt text](eurobot2019/others/logos/logo_brainstorm_md.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
