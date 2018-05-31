@@ -84,7 +84,7 @@ For the versions available, see the [tags on this repository](https://github.com
 * **Raj Manandhar** - *Initial work* 
 * **Simon Klimek** - *Initial work* - [Simon's network] (simonklimek91@gmail.com)
 
-See also the list of [contributors](https://github.com/eurobot2019/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/simonklimek/eurobot2019/graphs/contributors) who participated in this project.
 
 ## License
 
