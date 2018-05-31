@@ -2,7 +2,7 @@
 
 # Eurobot 2019
 
-Repository for team Brainstorm - Middlesex University
+Repository exclusively for team Brainstorm - Middlesex University
 
 ## Getting Started
 
