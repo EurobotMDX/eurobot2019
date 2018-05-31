@@ -1,6 +1,8 @@
+![Alt text](others/logos/logo_brainstorm_md.png?raw=true "Brainstorm")
+
 # Eurobot 2019
 
-For Eurobot 2019 competition - Middlesex University team repository
+Repository exclusively for team Brainstorm - Middlesex University
 
 ## Getting Started
 
@@ -13,6 +15,8 @@ What things you need to install the software and how to install them
 ```
 Give examples
 ```
+* [Ubuntu MATE for the Raspberry Pi](https://ubuntu-mate.org/raspberry-pi/) - Download Ubuntu MATE for Raspberry Pi
+* [Ubuntu install of ROS Kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu) - Installation process in steps
 
 ### Installing
 
@@ -56,9 +60,14 @@ Give an example
 
 Add additional notes about how to deploy this on a live system
 
+## Useful Documents
+
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [ROS Cheat Sheet](http://www.tedusar.eu/files/summerschool2013/ROScheatsheet.pdf)
+* [MD25 Motor Controller I2C for Arduino](https://www.robot-electronics.co.uk/htm/arduino_examples.htm#MD25%20RD02%20Motor%20Controller) - Pinout scheme and arduino .ino example
+
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
@@ -73,16 +82,20 @@ For the versions available, see the [tags on this repository](https://github.com
 ## Authors
 
 * **Adam Jarzebak** - *Initial work* - (adam@jarzebak.eu)
-* **Simon Klimek** - *Initial work* - [Simon's network] (simonklimek91@gmail.com)
+* **Aneta Zabek** - *Initial work* 
 * **Artur Graczyk** - *Initial work* 
 * **Chibuike Okpaluba** - *Initial work* 
+* **Momchil Galabov** - *Initial work* - (mg1143@live.mdx.ac.uk)
+* **Patryk Piasecki** - *Initial work* 
+* **Przemyslaw Pazdzior** - *Initial work* 
 * **Raj Manandhar** - *Initial work* 
+* **Simon Klimek** - *Initial work* - [Simon's network] (simonklimek91@gmail.com)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/simonklimek/eurobot2019/graphs/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
