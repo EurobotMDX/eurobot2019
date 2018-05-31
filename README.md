@@ -15,7 +15,7 @@ What things you need to install the software and how to install them
 ```
 Give examples
 ```
-* [Ubuntu MATE for the Raspberry Pi](https://ubuntu-mate.org/raspberry-pi/) - Download Ubuntu MATE for Raspberry Pi
+* [Ubuntu MATE for the Raspberry Pi](https://ubuntu-mate.org/download/) - Download Ubuntu MATE for Raspberry Pi
 * [Ubuntu install of ROS Kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu) - Installation process in steps
 
 ### Installing
