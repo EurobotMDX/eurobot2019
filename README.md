@@ -1,8 +1,8 @@
-![Alt text](others/logos/logo_brainstorm_sm.png?raw=true "Brainstorm")
+![Alt text](others/logos/logo_brainstorm_md.png?raw=true "Brainstorm")
 
 # Eurobot 2019
 
-For Eurobot 2019 competition - Middlesex University team repository
+Repository for team Brainstorm - Middlesex University
 
 ## Getting Started
 
@@ -15,7 +15,7 @@ What things you need to install the software and how to install them
 ```
 Give examples
 ```
-
+* [Ubuntu MATE for the Raspberry Pi](https://ubuntu-mate.org/raspberry-pi/) - Download Ubuntu MATE for Raspberry Pi
 * [Ubuntu install of ROS Kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu) - Installation process in steps
 
 ### Installing
