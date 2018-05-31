@@ -75,12 +75,16 @@ For the versions available, see the [tags on this repository](https://github.com
 ## Authors
 
 * **Adam Jarzebak** - *Initial work* - (adam@jarzebak.eu)
-* **Simon Klimek** - *Initial work* - [Simon's network] (simonklimek91@gmail.com)
+* **Aneta Zabek** - *Initial work* 
 * **Artur Graczyk** - *Initial work* 
 * **Chibuike Okpaluba** - *Initial work* 
+* **Momchil Galabov** - *Initial work* - (mg1143@live.mdx.ac.uk)
+* **Patryk Piasecki** - *Initial work* 
+* **Przemyslaw Pazdzior** - *Initial work* 
 * **Raj Manandhar** - *Initial work* 
+* **Simon Klimek** - *Initial work* - [Simon's network] (simonklimek91@gmail.com)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/eurobot2019/contributors) who participated in this project.
 
 ## License
 
