@@ -2,7 +2,7 @@
 
 For Eurobot 2019 competition - Middlesex University team repository
 
-[[/eurobot2019/others/logos/logo_brainstorm_md.png|alt=brainstorm]]
+![Alt text](eurobot2019/others/logos/logo_brainstorm_md.png?raw=true "Title")
 
 ## Getting Started
 
