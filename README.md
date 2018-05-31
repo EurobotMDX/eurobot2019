@@ -1,4 +1,4 @@
-![Alt text](others/logos/logo_brainstorm_md.png?raw=true "Title")
+![Alt text](others/logos/logo_brainstorm_sm.png?raw=true "Brainstorm")
 
 # Eurobot 2019
 
