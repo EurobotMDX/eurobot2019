@@ -66,10 +66,14 @@ Add additional notes about how to deploy this on a live system
 * [ROS Cheat Sheet](http://www.tedusar.eu/files/summerschool2013/ROScheatsheet.pdf)
 * [MD25 Motor Controller I2C for Arduino](https://www.robot-electronics.co.uk/htm/arduino_examples.htm#MD25%20RD02%20Motor%20Controller) - Pinout scheme and arduino .ino example
 
-## Built With
+## Small Robot
 
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Driving](https://github.com/DiefBell/MD25) - An object-oriented Arduino library for controlling the MD25 motor controller (via I2C).
+
+```
+In order to install this library, find your Arduino folder, then place the MD25 folder (NOT the "MD25-master" folder) into your libraries folder. Folder structure should look something like:
+/Arduino/libraries/MD25/src/ /examples/ keywords.txt etc...
+```
 
 ## Contributing
 
