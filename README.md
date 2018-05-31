@@ -2,7 +2,7 @@
 
 For Eurobot 2019 competition - Middlesex University team repository
 
-![alt text](https://raw.githubusercontent.com/simonklimek/eurobot2019/others/logos/logo_brainstorm_md.png)
+[[https://github.com/simonklimek/eurobot2019/others/logos/logo_brainstorm_md.png|alt=brainstorm]]
 
 ## Getting Started
 
