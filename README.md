@@ -62,13 +62,12 @@ Add additional notes about how to deploy this on a live system
 
 ## Useful Documents
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [ROS Cheat Sheet](http://www.tedusar.eu/files/summerschool2013/ROScheatsheet.pdf)
+* [MD25 Motor Controller I2C for Arduino](https://www.robot-electronics.co.uk/htm/arduino_examples.htm#MD25%20RD02%20Motor%20Controller) - Pinout scheme and arduino .ino example
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
