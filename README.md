@@ -1,6 +1,6 @@
 # Eurobot 2019
 
-For Eurobot 2019 competition - team repository
+For Eurobot 2019 competition - Middlesex University team repository
 
 ## Getting Started
 
@@ -52,7 +52,7 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
+## Documentation
 
 Add additional notes about how to deploy this on a live system
 
