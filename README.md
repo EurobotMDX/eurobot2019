@@ -71,7 +71,9 @@ Add additional notes about how to deploy this on a live system
 * [Driving for MD25 - github](https://github.com/DiefBell/MD25) - An object-oriented Arduino library for controlling the MD25 motor controller (via I2C).
 
 ```
-In order to install this library, find your Arduino folder, then place the MD25 folder (NOT the "MD25-master" folder) into your libraries folder. Folder structure should look something like:
+In order to install this library, find your Arduino folder, 
+then place the MD25 folder (NOT the "MD25-master" folder) into your libraries folder. 
+Folder structure should look something like:
 /Arduino/libraries/MD25/src/ /examples/ keywords.txt etc...
 ```
 
