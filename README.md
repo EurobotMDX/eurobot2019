@@ -39,18 +39,14 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Running the ROS
 
-Explain how to run the ROS
+Explanation how to run the ROS
 
-#### Ubuntu install of ROS Kinetic
-* [wiki.ros tutorial](http://wiki.ros.org/kinetic/Installation/Ubuntu)
-#### ROS V-Useful Tutorials for begginers 
-* [explore wiki.ros with tutorials](http://wiki.ros.org/ROS/Tutorials)
-#### ROS communication with Arduino board tutorials - intermediate level
-* [Arduino setup, sensors and much more tutorials](http://wiki.ros.org/rosserial_arduino/Tutorials)
-#### Programming Robots with ROS - O'Reilly - advanced
-* [427 pages eBook for download](http://marte.aslab.upm.es/redmine/files/dmsf/p_drone-testbed/170324115730_268_Quigley_-_Programming_Robots_with_ROS.pdf)
+* [ROS Kinetic for Ubuntu - wiki.ros tutorial](http://wiki.ros.org/kinetic/Installation/Ubuntu)
+* [ROS V-Useful Tutorials for begginers - explore wiki.ros with tutorials](http://wiki.ros.org/ROS/Tutorials)
+* [ROS communication with Arduino - setup, sensors and much more tuts](http://wiki.ros.org/rosserial_arduino/Tutorials)
+* [Programming Robots with ROS O'Reilly - 427 pages eBook for download](http://marte.aslab.upm.es/redmine/files/dmsf/p_drone-testbed/170324115730_268_Quigley_-_Programming_Robots_with_ROS.pdf)
 
-## Documentation
+## Project Documentation
 
 Add additional notes about how to deploy this on a live system
 
