@@ -80,8 +80,9 @@ For the versions available, see the [tags on this repository](https://github.com
 * **Adam Jarzebak** - *Initial work* - (adam@jarzebak.eu)
 * **Aneta Zabek** - *Initial work* 
 * **Artur Graczyk** - *Initial work* 
-* **Chibuike Okpaluba** - *Initial work* 
+* **Chibuike Okpaluba** - *Initial work* (co607@live.mdx.ac.uk)
 * **Momchil Galabov** - *Initial work* - (mg1143@live.mdx.ac.uk)
+* **Marlon Gwaira** - () 
 * **Patryk Piasecki** - *Initial work* 
 * **Przemyslaw Pazdzior** - *Initial work* 
 * **Raj Manandhar** - *Initial work* 
